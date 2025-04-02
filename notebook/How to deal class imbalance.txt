@@ -10,3 +10,5 @@ You can specify class weights directly in the Random Forest classifier to deal w
 
 2. Using SMOTE (Synthetic Minority Over-sampling):
 SMOTE can be used to generate synthetic examples for the minority class to balance the dataset. We’ll use the imblearn library for this.
+
+NOTE: Some times Smote will not be working
